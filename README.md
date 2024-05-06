@@ -4,5 +4,5 @@ We develop a structurally consistent model for each view (Transverse, Coronal, S
 <img src="https://github.com/QinRui-k/MVC-Net/blob/main/ARCH.png">
 
 
-Evaluation
+# Evaluation
 <img src="https://github.com/QinRui-k/MVC-Net/files/15224369/JAW-3D.pdf">
