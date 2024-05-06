@@ -6,4 +6,4 @@ We develop a structurally consistent model for each view (Transverse, Coronal, S
 
 # Evaluation
 <img src="https://github.com/QinRui-k/MVC-Net/files/15224369/JAW-3D.pdf">
-<img src="https://github.com/QinRui-k/MVC-Net/files/15224369/JAW-2D.pdf">
+<img src="https://github.com/QinRui-k/MVC-Net/files/15224368/JAW-2D.pdf">
