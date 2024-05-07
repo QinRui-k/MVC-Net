@@ -1,10 +1,10 @@
 # MVC-Net
 
 ## ✈️Highlights
-🔥 A novel semi-supervised segmentation paradigm named MVC-Net based on multi-view consistency-perception.< br >
-🔥 MVC-Net achieves outstanding performance with a limited amount of annotated data on our self-constructed largest cranio-maxillofacial multi-tissue and tumor dataset named CMT-TS dataset and three other publicly available datasets.< br >
-🔥 The effectiveness of MVC-Net is demonstrated from two perspectives in multi-view learning namely the multi-view consistency hypothesis and common feature representation hypothesis.< br >
-🔥 The working mechanism of MVC-Net is demonstrated from three perspectives namely diversity, complementarity, and consensus. < br >
+🔥 A novel semi-supervised segmentation paradigm named MVC-Net based on multi-view consistency-perception.
+🔥 MVC-Net achieves outstanding performance with a limited amount of annotated data on our self-constructed largest cranio-maxillofacial multi-tissue and tumor dataset named CMT-TS dataset and three other publicly available datasets.
+🔥 The effectiveness of MVC-Net is demonstrated from two perspectives in multi-view learning namely the multi-view consistency hypothesis and common feature representation hypothesis.
+🔥 The working mechanism of MVC-Net is demonstrated from three perspectives namely diversity, complementarity, and consensus. 
 
 ## 👉Framework
 <img src="https://github.com/QinRui-k/MVC-Net/blob/main/ARCH.png">
@@ -12,12 +12,18 @@ We develop a structurally consistent model for each view (Transverse, Coronal, S
 
 
 ## 👉Evaluation
-### Quantitative segmentation results of the CMT-TS dataset.
+<p align="center">  
+Quantitative segmentation results of the CMT-TS dataset  
+</p>   
 <img src="https://github.com/QinRui-k/MVC-Net/assets/139854014/905c804b-03b8-4160-979a-4d48dcfab186">
 
-### Visulization in 3D
+<p align="center">  
+Visulization in 3D
+</p>   
 <img src="https://github.com/QinRui-k/MVC-Net/files/15224369/JAW-3D.pdf">
 
-### Visulization in 2D
+<p align="center">  
+Visulization in 2D
+</p>   
 <img src="https://github.com/QinRui-k/MVC-Net/files/15224368/JAW-2D.pdf">
 
