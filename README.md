@@ -29,5 +29,12 @@ Visulization in 2D
 
 ## 👉Train
 ```
+cd ./MVC-Net
 train.py
+```
+
+## 👉Test
+```
+cd ./MVC-Net
+test_fuse.py
 ```
