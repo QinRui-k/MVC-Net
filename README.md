@@ -1,9 +1,12 @@
 # MVC-Net
 
 ## ✈️Highlights
-🔥 A novel semi-supervised segmentation paradigm named MVC-Net based on multi-view consistency-perception.
-🔥 MVC-Net achieves outstanding performance with a limited amount of annotated data on our self-constructed largest cranio-maxillofacial multi-tissue and tumor dataset named CMT-TS dataset and three other publicly available datasets.
-🔥 The effectiveness of MVC-Net is demonstrated from two perspectives in multi-view learning namely the multi-view consistency hypothesis and common feature representation hypothesis.
+🔥 A novel semi-supervised segmentation paradigm named MVC-Net based on multi-view consistency-perception.  
+
+🔥 MVC-Net achieves outstanding performance with a limited amount of annotated data on our self-constructed largest cranio-maxillofacial multi-tissue and tumor dataset named CMT-TS dataset and three other publicly available datasets.  
+
+🔥 The effectiveness of MVC-Net is demonstrated from two perspectives in multi-view learning namely the multi-view consistency hypothesis and common feature representation hypothesis.  
+
 🔥 The working mechanism of MVC-Net is demonstrated from three perspectives namely diversity, complementarity, and consensus. 
 
 ## 👉Framework
