@@ -1,4 +1,4 @@
-# MVC-Net
+# Multi-View Consistency Perception Network (MVC-Net)
 
 ## ✈️ Highlights
 🔥 A novel semi-supervised segmentation paradigm named MVC-Net based on multi-view consistency-perception.  
