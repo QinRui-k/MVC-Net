@@ -27,3 +27,7 @@ Visulization in 2D
 </p>   
 <img src="https://github.com/QinRui-k/MVC-Net/files/15224368/JAW-2D.pdf">
 
+## 👉Train
+```
+train.py
+```
