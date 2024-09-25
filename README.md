@@ -40,7 +40,7 @@ test_fuse.py
 ```
 
 ## 🤝 DataSet
-* We store our dataset on a cloud storage service. If you require access, please send an email to 18580039560@163.com to request the data link.
+* We have made 100 samples publicly available on Google Drive ([link](https://drive.google.com/file/d/19YRFT-gx-L7drJiubfHelX-e1o7bkgDQ/view?usp=share_link)), while the complete dataset can be obtained by contacting the authors at 18580039560@163.com for the data link.
 
 ## 🤝 Acknowledgement
 * We thank all medical workers and dataset owners for making public datasets available to the community.
