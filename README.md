@@ -20,12 +20,12 @@ Quantitative segmentation results of the CMT-TS dataset
 <p align="center">  
 Visulization in 3D
 </p>   
-<img src="https://github.com/QinRui-k/MVC-Net/files/15224369/JAW-3D.pdf">
+<img src="[https://github.com/QinRui-k/MVC-Net/files/15224369/JAW-3D.pdf](https://github.com/user-attachments/assets/e6247f8a-963a-4b80-8e16-699a7602578f)">
 
 <p align="center">  
 Visulization in 2D
 </p>   
-<img src="https://github.com/QinRui-k/MVC-Net/files/15224368/JAW-2D.pdf">
+<img src="[https://github.com/QinRui-k/MVC-Net/files/15224368/JAW-2D.pdf](https://github.com/user-attachments/assets/7dc403ca-50d2-4432-8ce4-796c728d0b3f)">
 
 ## 👉 Train
 ```
